@@ -1,6 +1,6 @@
 # Dorchester on Camellia Ct
 
-Hi Stephanie,
+Hi Stephanie/Rachael,
 
 In this repository you will find my notes with regards to getting the Dorchester design on our property as per our requirements.
 
@@ -81,3 +81,25 @@ The figure above illustrates the following points of interest:
 4. The proposed location of the underground pit
 5. The exising electrical pole    
 
+
+Note, Stephanie stated in an email:
+> Please draw your own plan and mark everything that’s in the example attached. The underground pit is always located in the footpath, on the boundary line adjoining you and your neighbour, on the opposite side to your Garage and same side as Meter Box
+
+Question:
+In the "underground Example Pit location.png" sketch it outlines a 19.2m length I suspect from the end of the proposed cross-over to the proposed underground pit.
+
+1. Is this the estimated distance what United Energy want?
+
+---
+## KDR considerations
+
+The following is a list of considerations that I want to be considered during design & build
+
+1. The fence on the south west is dilapidated and required immediate attention. 
+    * If the garage is on the property boundary then the fence would be connected to the garage and should be built after the garage has been built.
+    * If the garage is 20cm offset from the property boundary then it would be easier to built the fence after demolition but before building the garage.
+2. I have a budget for implementing a solar system. I wish to maximise the roofing potential with preference to installing panels on the north, west & east sides.
+    * Consider installing the Evap cooling unit on the roof such that it minismises shadowing on the solar panels.
+3. There must be a demonstrated use of the existing cross-over that justifies its retention, otherwise council will insist that the original cross-over be filled in at the owner's expense.
+4. I have contacted Tango Energy who is our retailer for both Elec & Gas. They informed me that to ask Carlisle whether my NMI (elec connection point id) & MIRN (gas connection point id) can or will be retained. They stated that an abolishment will require a new contract to be required when transitioning.
+5. There is currently shade sails installed on the premise. We like the demolition to consider pulling out the pole and leaving them at the back of the property. 
